@@ -1,5 +1,5 @@
 ### uBlacklist
-- Chrome uBlacklist plug-in, Google search blacklist subscription. 
+- Chrome uBlacklist plug-in, Google search blacklist subscription.
 - Subscription address: `https://raw.githubusercontent.com/YeSilin/uBlacklist/master/list.txt`
 
 ### uBlacklist
